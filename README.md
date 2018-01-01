@@ -7,7 +7,7 @@ The project uses JavaScript on the front and back end. It uses EJS templating fo
 
 The data was made using [faker.js](https://github.com/marak/Faker.js/).
 
-####Features
+#### Features
 
 - Login in or create account using Facebook
 - Explore different 'genres' through links at navbar
@@ -15,7 +15,7 @@ The data was made using [faker.js](https://github.com/marak/Faker.js/).
 - Once logged in, instant search available from homepage
 - Checkout using Stripe
 
-####Technologies
+#### Technologies
 
 - [EJS templating](http://www.embeddedjs.com/)
 - [Node.js](https://nodejs.org/en/)
@@ -24,7 +24,7 @@ The data was made using [faker.js](https://github.com/marak/Faker.js/).
 - [Stripe](https://stripe.com/)
 - [Elasticsearch](https://www.elastic.co/)
 
-####Installation
+#### Installation
 
 Install the project by:
 
@@ -35,9 +35,15 @@ $ npm install
 
 ```
 
-####To view page locally
+#### To view page locally
 
 ```
 $ nodemon server
 
 ```
+
+#### ScreenShots
+![Main]()
+
+
+![Home]()
