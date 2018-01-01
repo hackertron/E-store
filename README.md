@@ -1,4 +1,4 @@
-# Raising Records - eCommerce App
+# E-Store - eCommerce App
 ---
 
 This eCommerce website is an online 'record' store where users can view different genres of albums, search keywords and purchase music. Users have to create an account to purchase items, but from their account they are able to see their purchase history.
