@@ -43,7 +43,7 @@ $ nodemon server
 ```
 
 #### ScreenShots
-![Main]()
+![Main](https://raw.githubusercontent.com/hackertron/E-store/master/main.PNG)
 
 
-![Home]()
+![Home](https://raw.githubusercontent.com/hackertron/E-store/master/home.PNG)
