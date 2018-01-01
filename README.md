@@ -45,5 +45,6 @@ $ nodemon server
 #### ScreenShots
 ![Main](https://raw.githubusercontent.com/hackertron/E-store/master/main.PNG)
 
+---
 
 ![Home](https://raw.githubusercontent.com/hackertron/E-store/master/home.PNG)
